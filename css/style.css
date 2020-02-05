@@ -1,0 +1,20 @@
+body{
+  height: 100%;
+   background: linear-gradient(90deg, black 50%, #00FFFF 50%);
+
+}
+h1{
+  text-align: center;
+  color: yellow;
+  font-style:italic;
+  size:19;
+}
+p{
+  color: white;
+}
+ol{
+  color: yellow;
+}
+ul{
+  color: yellow;
+}
